@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "126418935139",
+    "firebase_url": "https://taxinetdriver-291909.firebaseio.com",
+    "project_id": "taxinetdriver-291909",
+    "storage_bucket": "taxinetdriver-291909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126418935139:android:c9e2a4ecba5c3bdbd74756",
+        "android_client_info": {
+          "package_name": "com.webnexs.taxinetdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126418935139-2hs9h0659b4t95bvvrnn1msok5l6rtc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVb-PiVeeoqrRfXVc-Gh2eDT6Opwhmxbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126418935139-2hs9h0659b4t95bvvrnn1msok5l6rtc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
